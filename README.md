@@ -1,5 +1,5 @@
 # Jul25
-App create an SQLite database containing one table. User can add, delete or update records. App showing use of:
+App create an SQLite database containing one table. User can add, delete or update records from list or from overflow menu. App showing use of:
 
 1. Cursor
 2. Adapter
